@@ -1,1 +1,10 @@
-{"name":"namenew1","safebrowser_data":"safebrowerdatanew2"}
+[
+  {
+    "name": "namenew1",
+    "safebrowser_data": "safebrowerdatanew2"
+  },
+  {
+    "name": "namenew1",
+    "safebrowser_data": "safebrowerdatanew1"
+  }
+]
