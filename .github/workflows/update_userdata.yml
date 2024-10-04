@@ -1,0 +1,33 @@
+name: Update UserData
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Name des Benutzers'
+        required: true
+        type: string
+      safebrowserdata:
+        description: 'Safebrowser-Daten'
+        required: true
+        type: string
+
+jobs:
+  update_json:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Update UserData.json
+      run: |
+        json_data=$(cat UserData.json)
+        echo "$json_data" | jq ". + [{\"${{ github.event.inputs.name }}\": \"${{ github.event.inputs.safebrowserdata }}\"}]" > UserData.json
+
+    - name: Commit Changes
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add UserData.json
+        git commit -m "UserData.json aktualisiert mit ${{ github.event.inputs.name }}"
+        git push
