@@ -42,5 +42,8 @@
   {
     "name": "Dmytro",
     "safebrowser_data": "Datadmytro"
+  },
+  {
+    "testname": "testdata"
   }
 ]
