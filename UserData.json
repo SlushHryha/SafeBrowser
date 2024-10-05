@@ -30,5 +30,9 @@
   {
     "name": "Testname",
     "safebrowser_data": "Test data "
+  },
+  {
+    "name": "Hi",
+    "safebrowser_data": "Data"
   }
 ]
