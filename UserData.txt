@@ -1,4 +1,5 @@
 {
   "safebrowsername": "safebrowserdata",
-  "testername": "testerdata"
+  "testername": "testerdata",
+  "testername2": "testerdata2"
 }
