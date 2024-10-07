@@ -1,1 +1,4 @@
-{"safebrowsername":"safebrowserdata"}
+{
+  "safebrowsername": "safebrowserdata",
+  "testername": "testerdata"
+}
