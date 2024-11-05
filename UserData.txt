@@ -3,5 +3,6 @@
   "testername": "testerdata",
   "testername2": "testerdata2",
   "Oleksii": "Datadata",
-  "Theo": "Theodatat"
+  "Theo": "Theodatat",
+  "Sebastina": "Genderverbot"
 }
