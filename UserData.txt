@@ -2,6 +2,6 @@
   "safebrowsername": "safebrowserdata",
   "testername": "testerdata",
   "testername2": "testerdata2",
-  "Oleksii": "SafeData",
+  "Oleksii": "Datadata",
   "Theo": "Theodatat"
 }
