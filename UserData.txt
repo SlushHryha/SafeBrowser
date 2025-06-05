@@ -9,5 +9,8 @@
   "slushhryha1801": "{\"Page2\":\"examplepage2.com\",\"Page5\":\"examplepage5.com\",\"Page1\":\"examplepage1.com\",\"Page4\":\"examplepage4.com\",\"Page3\":\"examplepage3.com\"}",
   "mjhjk": "datsa",
   "sdfsdf": "dfsfsdf",
-  "sdfsfd": "sfdsdf"
+  "sdfsfd": "sfdsdf",
+  "name": {
+    "password": "examplapassword"
+  }
 }
