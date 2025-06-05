@@ -12,5 +12,8 @@
   "sdfsfd": "sfdsdf",
   "name": {
     "password": "examplapassword"
+  },
+  "OleksiiHryha": {
+    "password": "passwkrd"
   }
 }
