@@ -1,0 +1,46 @@
+{
+  "safebrowser": {
+    "userdata": {
+      "name": "exampleName",
+      "lastsync": "29.21.2032",
+      "joindate": "29.21.2032",
+      "password": "",
+      "lastactivity": {
+        "type": "SquareOpener",
+        "date": "12.21.2022",
+        "name": "example.com"
+      }
+    },
+    "safebrowserdata": {
+      "fastopener": {
+        "groupnames": {
+          "school": "School",
+          "home": "Home"
+        },
+        "appslist": "Klett Lernen§Cornelsen§Teams§Photos§Goodnotes"
+      },
+      "squareopener": {
+        "urlslist": "crazygames.com§enjoy4fun.com§hero-wars.com§kibagames.com§poki.com"
+      }
+    },
+    "settings": {
+      "safebrowserpassword": {
+        "description": "",
+        "state": true,
+        "value": "ver2"
+      },
+      "language": {
+        "description": "",
+        "value": "english"
+      },
+      "autosync": {
+        "description": "",
+        "state": true
+      },
+      "writedate": {
+        "description": "",
+        "state": true
+      }
+    }
+  }
+}
