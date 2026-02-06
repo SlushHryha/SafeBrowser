@@ -26,8 +26,8 @@
     },
     "settings": {
       "safebrowserpassword": {
-        "state": true,
-        "value": "ver2"
+        "state": false,
+        "value": "-------"
       },
       "classroom": {
         "state": true,
