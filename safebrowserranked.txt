@@ -1,0 +1,15 @@
+{
+  "1":  { "amount": "25",  "name": "noob 😢" },
+  "2":  { "amount": "50",  "name": "beginner 🥱" },
+  "3":  { "amount": "100", "name": "learner 😑" },
+  "4":  { "amount": "200", "name": "rookie 🤠" },
+  "5":  { "amount": "350", "name": "intermediate 👌" },
+  "6":  { "amount": "550", "name": "advanced 👍" },
+  "7":  { "amount": "800", "name": "skilled 😮‍💨" },
+  "8":  { "amount": "1000","name": "expert ❤️‍🔥" },
+  "9":  { "amount": "1700","name": "master 🪬" },
+  "10": { "amount": "2500","name": "pro 🥉" },
+  "11": { "amount": "3500","name": "elite 🥈" },
+  "12": { "amount": "5000","name": "legend 🎖️" }
+}
+ 

@@ -5,6 +5,7 @@
       "lastsync": "29.21.2032",
       "joindate": "29.21.2032",
       "password": "",
+      "safebrowserscore": 0,
       "lastactivity": {
         "type": "SquareOpener",
         "date": "12.21.2022",
