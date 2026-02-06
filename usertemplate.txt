@@ -1,10 +1,10 @@
 {
   "safebrowser": {
     "userdata": {
-      "name": "exampleName",
-      "lastsync": "29.21.2032",
-      "joindate": "29.21.2032",
-      "password": "",
+      "name": "comingSoon",
+      "lastsync": "comingSoon",
+      "joindate": "comingSoon",
+      "password": "comingSoon",
       "safebrowserscore": 0,
       "lastactivity": {
         "type": "SquareOpener",
@@ -26,20 +26,16 @@
     },
     "settings": {
       "safebrowserpassword": {
-        "description": "",
         "state": true,
         "value": "ver2"
       },
+      "classroom": {
+        "state": true,
+      },
       "language": {
-        "description": "",
         "value": "english"
       },
-      "autosync": {
-        "description": "",
-        "state": true
-      },
       "writedate": {
-        "description": "",
         "state": true
       }
     }
