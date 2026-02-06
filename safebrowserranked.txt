@@ -1,15 +1,15 @@
 {
-  "1":  { "amount": "25",  "name": "noob 😢" },
-  "2":  { "amount": "50",  "name": "beginner 🥱" },
-  "3":  { "amount": "100", "name": "learner 😑" },
-  "4":  { "amount": "200", "name": "rookie 🤠" },
-  "5":  { "amount": "350", "name": "intermediate 👌" },
-  "6":  { "amount": "550", "name": "advanced 👍" },
-  "7":  { "amount": "800", "name": "skilled 😮‍💨" },
-  "8":  { "amount": "1000","name": "expert ❤️‍🔥" },
-  "9":  { "amount": "1700","name": "master 🪬" },
-  "10": { "amount": "2500","name": "pro 🥉" },
-  "11": { "amount": "3500","name": "elite 🥈" },
-  "12": { "amount": "5000","name": "legend 🎖️" }
+  "1":  { "amount": "25",  "name": "Noob 😢" },
+  "2":  { "amount": "50",  "name": "Beginner 🥱" },
+  "3":  { "amount": "100", "name": "Learner 😑" },
+  "4":  { "amount": "200", "name": "Rookie 🤠" },
+  "5":  { "amount": "350", "name": "Intermediate 👌" },
+  "6":  { "amount": "550", "name": "Advanced 👍" },
+  "7":  { "amount": "800", "name": "Skilled 😮‍💨" },
+  "8":  { "amount": "1000","name": "Expert ❤️‍🔥" },
+  "9":  { "amount": "1700","name": "Master 🪬" },
+  "10": { "amount": "2500","name": "Pro 🥉" },
+  "11": { "amount": "3500","name": "Elite 🥈" },
+  "12": { "amount": "5000","name": "Legend 🎖️" }
 }
  
