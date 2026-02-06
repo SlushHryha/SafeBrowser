@@ -21,7 +21,7 @@
         "appslist": "Klett Lernen§Cornelsen§Teams§Photos§Goodnotes"
       },
       "squareopener": {
-        "urlslist": "crazygames.com§enjoy4fun.com§hero-wars.com§kibagames.com§poki.com"
+        "urlslist": "crazygames.com§enjoy4fun.com§hero-wars.com§poki.com"
       }
     },
     "settings": {
