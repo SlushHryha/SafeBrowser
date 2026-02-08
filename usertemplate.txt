@@ -18,7 +18,7 @@
           "school": "School",
           "home": "Home"
         },
-        "appslist": "Klett Lernen§Cornelsen§Teams§Photos§Goodnotes"
+        "appslist": "Klett Lernen§Cornelsen Lernen§Teams§Photos§Goodnotes"
       },
       "squareopener": {
         "urlslist": "crazygames.com§enjoy4fun.com§hero-wars.com§poki.com"
