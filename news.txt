@@ -1,15 +1,16 @@
 Welcome to the news of SafeBrowser:
 
-New Version --> 5.2
+New Version --> 5.3
 
 -> New Features:
--None
+-User ID
 
 -> Improvement:
--FastOpener
+-DarkMode changes Color of all Icons
+-Added 1 hour user sync
+-Improved saving of websites from the Safari Share Sheet
 
 -> Leakes of the new update:
--Dark Mode Icons
--Improve saving of websites from the Safari Share Sheet
+-Nothing yet :(
 
 Thank you for using SafeBrowser :)

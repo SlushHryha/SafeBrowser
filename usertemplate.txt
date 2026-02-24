@@ -2,8 +2,9 @@
   "safebrowser": {
     "userdata": {
       "name": "comingSoon",
-      "lastsync": "comingSoon",
-      "joindate": "comingSoon",
+      "userid": "",
+      "lastsync": "",
+      "joindate": "",
       "password": "comingSoon",
       "safebrowserscore": 0,
       "lastactivity": {
