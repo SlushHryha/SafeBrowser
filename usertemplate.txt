@@ -1,12 +1,13 @@
 {
   "safebrowser": {
     "userdata": {
-      "name": "comingSoon",
+      "name": "",
       "userid": "",
       "lastsync": "",
       "joindate": "",
-      "password": "comingSoon",
+      "password": "",
       "safebrowserscore": 0,
+      "noaccount": true,
       "lastactivity": {
         "type": "SquareOpener",
         "date": "12.21.2022",
@@ -23,6 +24,10 @@
       },
       "squareopener": {
         "urlslist": "crazygames.com§enjoy4fun.com§hero-wars.com§poki.com"
+      },
+      "trending": {
+        "lastsync" : "",
+        "urlslist": ""
       }
     },
     "settings": {
@@ -31,7 +36,7 @@
         "value": "-------"
       },
       "classroom": {
-        "state": false,
+        "state": false
       },
       "language": {
         "value": "english"
