@@ -6,7 +6,7 @@
       "joindate": "",
       "password": "",
       "safebrowserscore": 0,
-      "noaccount": "",
+      "noaccount": "true",
       "lastactivity": {
         "type": "",
         "date": "",
