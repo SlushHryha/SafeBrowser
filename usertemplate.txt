@@ -26,6 +26,9 @@
       "trending": {
         "lastsync" : "",
         "urlslist": ""
+      },
+      "proxy": {
+        "url" : ""
       }
     },
     "settings": {
